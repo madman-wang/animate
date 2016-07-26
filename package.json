@@ -1,0 +1,18 @@
+{
+  "name": "saishi",
+  "version": "1.0.0",
+  "description": "高尔夫网站",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-livereload": "^0.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-contrib-imagemin": "^1.0.1"
+  }
+}
